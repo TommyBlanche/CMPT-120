@@ -6,9 +6,14 @@
 
 def main():
   
+ print("Hello World!")
 
+ color = "baby blue"
+ birthday = "March 9th"
 
-    
+ print("My favorite color is: " + color)
+
+ print("My birthday is: " + birthday)
 main()
 
 
