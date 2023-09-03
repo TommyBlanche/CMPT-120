@@ -8,7 +8,7 @@ def main():
   
  print("Hello World!")
 
- color = "baby blue"
+ color = "light blue"
  birthday = "March 9th"
 
  print("My favorite color is: " + color)
