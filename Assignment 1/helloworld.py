@@ -9,7 +9,7 @@ def main():
  print("Hello World!")
 
  color = "light blue"
- birthday = "March 9th"
+ birthday = "03 09 2005"
 
  print("My favorite color is: " + color)
 

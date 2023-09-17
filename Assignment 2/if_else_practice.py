@@ -6,4 +6,15 @@
 
 def main():
 
+    cat = 10
+
+    if cat > 12:
+        print("10 is greater than 12")
+    elif cat > 11:
+        print("10 is greater than 11")
+    elif cat == 10:
+        print("10 is equal to 10")
+    else:
+        print("10 is less than 10")
+
 main()

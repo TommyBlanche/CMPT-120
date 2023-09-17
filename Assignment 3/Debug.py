@@ -1,11 +1,13 @@
 def main():
     
     #Can you print out "Hello" 8 times? I gave you a tiny hint to start...
-    for x in range(?):
+    for x in range(8):
+        print("Hello")
         
     #What about as a while loop?
-    loops = ?
-    while (loops < ?):
+    loops = 8
+    while (loops < 8):
+        print("Hello")
         
     
     #The loop iterations are one behind in a non-programming counting way... how can we fix this?
@@ -34,12 +36,12 @@ def main():
         
     #can you fill this out so that it prints found when it hits the letter r?
     for x in "Marist":
-        if ? == ?:
+        if x == 2:
             print("found")
     
     numbers = [1,2,3,4,5,6,7,8,9,10]
     #you could print out the list using print(numbers) OR you could go the long way and use a for loop to print out the value of each index :)
-    for x in ?:
+    for x in 9:
         print(?[?])
     
     #what if I wanted you to print out only the even numbers in this range I made?
