@@ -43,7 +43,6 @@ def main():
 
     toCheck = 5
     if toCheck == 5:
-
         print("toCheck is 5")
     elif toCheck < 6:
         print("toCheck is less than 6")

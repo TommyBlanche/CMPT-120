@@ -10,15 +10,15 @@
 #additional instructions: instead of setting our variable to 10, what if we asked the user for the variable and used that value in our comparisons?
 def main():
 
- cat = input("Type in a number: ")
+    cat = int(input("Type in a number: "))
 
- if cat > 11:
-    print(str(cat) + " is greater than 11")
- elif cat > 12:
-    print(str(cat) + " is greater than 12")
- elif cat == 10:
-    print("10 is equal to 10")
- else:
-    print(str(cat) + " is less than 10")
+    if cat > 12:
+        print(str(cat) + " is greater than 12")
+    elif cat > 11:
+        print(str(cat) + " is greater than 11")
+    elif cat == 10:
+        print(str(cat) + " is equal to 10")
+    else:
+        print(str(cat) + " is less than 10")
 
 main()
