@@ -7,7 +7,7 @@ def main():
     #What about as a while loop?
     loops = 8
     while (loops < 8):
-        print("Hello")
+        print("Hello.")
         
     
     #The loop iterations are one behind in a non-programming counting way... how can we fix this?
@@ -22,17 +22,18 @@ def main():
      
     #Uh oh I messed up and made an infinite loop... so silly of me!   
     endless = 4    
-    while (endless < 5):
+    while (endless < 4):
         print("I'm stuck in this loop!!!!")
     
     #print out your last name one letter at a time
-    for x in "":
-        print(?)
+    for x in "Blanche":
+        print(x)
        
      #aw i suck i made another infinite loop.. use that thing I taught you about to get out once it prints once... starts with a b... br....
-    found == False    
+    found = False
     while found == False:
         print("i only printed once")
+        break
         
     #can you fill this out so that it prints found when it hits the letter r?
     for x in "Marist":
@@ -42,11 +43,12 @@ def main():
     numbers = [1,2,3,4,5,6,7,8,9,10]
     #you could print out the list using print(numbers) OR you could go the long way and use a for loop to print out the value of each index :)
     for x in 9:
-        print(?[?])
+        print()
     
     #what if I wanted you to print out only the even numbers in this range I made?
     for x in range (20, 501):
         #i feeeeel like modulooooooo is neededddd
-        if
+        if x % 2 == 0:
+            print(x)
     
 main()
