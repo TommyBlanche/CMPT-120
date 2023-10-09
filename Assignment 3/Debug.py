@@ -42,8 +42,9 @@ def main():
     
     numbers = [1,2,3,4,5,6,7,8,9,10]
     #you could print out the list using print(numbers) OR you could go the long way and use a for loop to print out the value of each index :)
-    for x in 9:
-        print()
+
+    for x in numbers:
+        print(numbers)
     
     #what if I wanted you to print out only the even numbers in this range I made?
     for x in range (20, 501):

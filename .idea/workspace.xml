@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="803ba4cd-2e60-4c8e-b8ab-b0b67601dd8e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/CMPT-110.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CMPT-110.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment 2.5/Number Conversion Practice.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 2.5/Number Conversion Practice.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment 2.5/double_int_list_practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 2.5/double_int_list_practice.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment 2.5/if_else_sign_practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 2.5/if_else_sign_practice.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assignment 3/Debug.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 3/Debug.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment 3/if_else_loop_practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 3/if_else_loop_practice.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +39,8 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
   <component name="RunManager">
