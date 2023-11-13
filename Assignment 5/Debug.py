@@ -40,7 +40,7 @@ def main():
         
     #do the live example we did in class: ask user to input an integer, but before you cast it to an int, check that it's an integer before doing your variable = int(variable) command
 
-    number = int(input("Put in an integer: "))
+    number = (input("Put in an integer: "))
 
     number = int(number)
 
@@ -49,6 +49,16 @@ def main():
 
 
     # last challenge: find out how to check if the string input has the substring "marist"
+
+str1 = input("Input a string: ")
+
+str2 = "Marist"
+
+index = str1.find(str2)
+if index != -1:
+    print(f'"{str1}" contains "{str2}"')
+else:
+    print(f'"{str1}" does not contain "{str2}"')
     #google this one ;) substring is the key google term
 
 
