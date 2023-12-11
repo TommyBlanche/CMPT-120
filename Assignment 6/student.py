@@ -57,7 +57,7 @@ def main():
 
     two = student("Tomas", 9238, "j", "comp sci", 3.8)
 
-    three = student("Pat", 4630, "s", "business", 1.2)
+    three = student("Danny", 4630, "s", "communication", 1.2)
     #create three students and check if they get free lunch and if they qualify for honors
 
     print(one.name, one.studentId, one.year, one.major, one.gpa, one.eligibility(), one.wacky())
